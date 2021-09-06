@@ -1,0 +1,14 @@
+django
+gunicorn
+django-heroku
+voila
+appmode
+osmnx==1.1.1
+Shapely==1.7.1
+geopandas==0.9.0
+fibheap==0.2.1
+ipywidgets==7.6.3
+haversine==2.4.0
+ipyleaflet==0.14.0
+ipython==7.26.0
+scikit-learn==0.24.2
