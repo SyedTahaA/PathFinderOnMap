@@ -1,6 +1,6 @@
 # PathFinderOnMap
 
-### Test it out: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/main?urlpath=voila%2Frender%2Fpath_app.ipynb)
+### visualizer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/main?urlpath=voila%2Frender%2Fpath_app.ipynb)
 
 ## Introduction:
 
