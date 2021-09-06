@@ -8,3 +8,4 @@ This project is an application of several pathfinding algorithms applied to real
 
 ## How to use:
 
+![Gif](https://github.com/SyedTahaA/PathFinderOnMap/blob/main/images/pathfinding.gif "Gif of using app")
