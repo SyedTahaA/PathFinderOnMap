@@ -12,4 +12,3 @@ haversine==2.4.0
 ipyleaflet==0.14.0
 ipython==7.26.0
 scikit-learn==0.24.2
-pickle==3.9.7
