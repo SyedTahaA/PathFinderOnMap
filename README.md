@@ -10,9 +10,11 @@
 
 ## Run locally:
 
+cd into folder then,
+
   $ pip install requirements.txt
 
-  $ voila --template voila-vuetify --enable_nbextensions=True --theme=dark ./path_app.ipynb
+  $ voila --enable_nbextensions=True --theme=dark ./path_app.ipynb
 
 ## Introduction:
 
