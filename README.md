@@ -8,7 +8,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/mainurlpath=voila%2Frender%2Fpath_app.ipynb)
 
-## Run on locally:
+## Run locally:
 
   $ pip install requirements.txt
 
