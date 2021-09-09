@@ -10,13 +10,9 @@
 
 ## Run on locally:
 
-'''
+  $ pip install requirements.txt
 
-$ pip install requirements.txt
-
-$ voila --template voila-vuetify --enable_nbextensions=True --theme=dark ./path_app.ipynb
-
-'''
+  $ voila --template voila-vuetify --enable_nbextensions=True --theme=dark ./path_app.ipynb
 
 ## Introduction:
 
