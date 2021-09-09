@@ -2,7 +2,7 @@
 
 ## Run on heroku:
 
-[![Heroku](https://www.drupal.org/files/issues/2019-12-11/heroku-logo-solid-purple_0.png)](https://mappingpath.herokuapp.com/)
+[![Heroku](https://www.herokucdn.com/favicons/apple-touch-icon-120x120.png)](https://mappingpath.herokuapp.com/)
 
 ## Run on mybinder: 
 
@@ -11,8 +11,11 @@
 ## Run on locally:
 
 '''
+
 $ pip install requirements.txt
+
 $ voila --template voila-vuetify --enable_nbextensions=True --theme=dark ./path_app.ipynb
+
 '''
 
 ## Introduction:
