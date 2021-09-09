@@ -1,6 +1,19 @@
 # PathFinderOnMap
 
-### visualizer: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/main?urlpath=voila%2Frender%2Fpath_app.ipynb)
+## Run on heroku:
+
+[![Heroku](https://www.drupal.org/files/issues/2019-12-11/heroku-logo-solid-purple_0.png)](https://mappingpath.herokuapp.com/)
+
+## Run on mybinder: 
+
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/mainurlpath=voila%2Frender%2Fpath_app.ipynb)
+
+## Run on locally:
+
+'''
+$ pip install requirements.txt
+$ voila --template voila-vuetify --enable_nbextensions=True --theme=dark ./path_app.ipynb
+'''
 
 ## Introduction:
 
