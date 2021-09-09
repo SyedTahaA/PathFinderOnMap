@@ -12,9 +12,10 @@
 
 cd into folder then,
 
-  $ pip install requirements.txt
-
+```bash
+  $ pip install -r requirements.txt
   $ voila --enable_nbextensions=True --theme=dark ./path_app.ipynb
+```
 
 ## Introduction:
 
