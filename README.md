@@ -20,26 +20,38 @@ This project is an application of several pathfinding algorithms applied to real
 ## Algorithms:
 
   - Dijkstra:
+
         - Guarantees shortest path
+
         - Favours shortest weighted neighbours (minimal distance)
 
   - A* Search:
+
         - Faster version of Dijsktra
+
         - Guarantees shortest path
+
         - Favours shortest weighted neighbours (minimal distance + admissible heuristic function)
+
         - Haversine function is used as heuristic
 
   - Unsafe A* Search:
+
         - Doesn't guarantee shortest path
+
         - Similar to A* search but faster since it uses an unsafe heuristic function
 
   - Breadth-first Search:
+
          - Doesn't guarantee shortest path
+         
          - Can go to any neighbouring node equally
 
 ### TODOS:
 
-  - Make a better website
+  - Improve website (Voila styling)
+
+  - Fix drawing of curved eges
 
   
 
