@@ -6,7 +6,7 @@
 
 ## Run on mybinder: 
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/mainurlpath=voila%2Frender%2Fpath_app.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/mainurlpath=voila%2Frender%2Fpath_app.ipynb?voila-theme=dark)
 
 ## Run locally:
 
