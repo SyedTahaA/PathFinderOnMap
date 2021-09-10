@@ -2,7 +2,7 @@
 
 ## Run on heroku:
 
-[Link](https://mappingpath.herokuapp.com/)
+[Click me](https://mappingpath.herokuapp.com/)
 
 ## Run on mybinder: 
 
