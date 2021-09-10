@@ -2,7 +2,7 @@
 
 ## Run on heroku:
 
-[![Heroku](https://www.herokucdn.com/favicons/apple-touch-icon-120x120.png)](https://mappingpath.herokuapp.com/)
+[Link](https://mappingpath.herokuapp.com/)
 
 ## Run on mybinder: 
 
@@ -40,6 +40,8 @@ This project is an application of several pathfinding algorithms applied to real
 
         - Favours shortest weighted neighbours (minimal distance)
 
+        - Limited to 6000m due to long find time for large distances
+
   - A* Search:
 
         - Faster version of Dijsktra
@@ -62,11 +64,13 @@ This project is an application of several pathfinding algorithms applied to real
          
          - Can go to any neighbouring node equally
 
+         - Limited to 6000m due to long find time for large distances
+
 ### TODOS:
 
   - Improve website (Voila styling)
 
-  - Fix drawing of curved eges
+  - Fix drawing of non-straight eges
 
   
 
