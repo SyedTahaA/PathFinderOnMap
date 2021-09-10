@@ -8,7 +8,7 @@
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SyedTahaA/PathFinderOnMap/mainurlpath=voila%2Frender%2Fpath_app.ipynb)
 
-Add ?voila-theme=dark after .ipynb for dark mode
+Add ?voila-theme=dark after .ipynb for dark mode in url after done building
 
 ## Run locally:
 
