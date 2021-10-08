@@ -18,7 +18,7 @@ cd into folder then,
   $ pip install -r requirements.txt
   $ voila --enable_nbextensions=True --theme=dark ./path_app.ipynb
 ```
-add --debug to enable debug mode for app.
+add --debug to run in debug mode.
 
 ## Introduction:
 
