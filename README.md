@@ -40,7 +40,7 @@ This project is an application of several pathfinding algorithms applied to real
 
         - Guarantees shortest path
 
-        - Favours shortest weighted neighbours (minimal distance)
+        - Favours shortest weighted neighbours (minimal distance greedy choice)
 
         - Limited to 6000m due to long find time for large distances
 
@@ -50,7 +50,7 @@ This project is an application of several pathfinding algorithms applied to real
 
         - Guarantees shortest path
 
-        - Favours shortest weighted neighbours (minimal distance + admissible heuristic function)
+        - Favours shortest weighted neighbours (minimal distance + admissible heuristic function greedy choice)
 
         - Haversine function is used as heuristic
 
