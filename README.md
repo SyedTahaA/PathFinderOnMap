@@ -27,7 +27,7 @@ This project is an application of several pathfinding algorithms applied to real
 
 ![Gif](https://github.com/SyedTahaA/PathFinderOnMap/blob/main/images/pathfinding.gif "Gif of using app")
 
-  1. Type in an address (e.g. Budapest, Pest megye, Hungary) or a place (e.g. University of Toronto) to load that locations nodes and edges into the map
+  1. Type in an city (e.g. Monaco) to load that locations nodes and edges into the map
          Note: Larger cities can take a long time to load while smaller ones load within a few seconds.
   2. Once the map is loaded, a node will represent each intersection, while a road between two intersections is represented by edges
   3. You can select a pathfinding algorithm and hit visualize to draw the path and see the nodes traversed
@@ -67,12 +67,22 @@ This project is an application of several pathfinding algorithms applied to real
          - Can go to any neighbouring node equally
 
          - Limited to 6000m due to long find time for large distances
+         
+  - Depth-first Search:
+
+         - Doesn't guarantee shortest path
+         
+         - Can go to any neighbouring node equally
+
+         - Limited to 6000m due to long find time for large distances
 
 ### TODOS:
 
   - Improve website (Voila styling)
 
   - Fix drawing of non-straight eges
+
+  - Improve efficiency for larger cities
 
   
 
