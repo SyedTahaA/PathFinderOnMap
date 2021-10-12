@@ -48,8 +48,6 @@ Some small cities to test on:
 
         - Favours shortest weighted neighbours (minimal distance greedy choice)
 
-        - Limited to 6000m due to long find time for large distances
-
   - A* Search:
 
         - Faster version of Dijsktra
@@ -71,16 +69,12 @@ Some small cities to test on:
          - Doesn't guarantee shortest path
          
          - Can go to any neighbouring node equally
-
-         - Limited to 6000m due to long find time for large distances
          
   - Depth-first Search:
 
          - Doesn't guarantee shortest path
          
          - Can go to any neighbouring node equally
-
-         - Limited to 6000m due to long find time for large distances
 
 ### TODOS:
 
