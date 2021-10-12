@@ -35,6 +35,11 @@ This project is an application of several pathfinding algorithms applied to real
   4. To compare different pathfinding algorithms, you can change the node and path color
   5. Hit the clear map button to delete previously drawn visualizations
 
+Some small cities to test on:
+  - Monaco
+  - Lausanne, Switzerland
+  - Bordeaux, France
+
 ## Algorithms:
 
   - Dijkstra:
