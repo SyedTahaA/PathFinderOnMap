@@ -37,8 +37,8 @@ This project is an application of several pathfinding algorithms applied to real
 
 Some small cities to test on:
   - Monaco
-  - Lausanne, Switzerland
-  - Bordeaux, France
+  - Eibar
+  - Tiverton
 
 ## Algorithms:
 
