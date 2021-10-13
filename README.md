@@ -22,7 +22,7 @@ add --debug to run in debug mode.
 
 ## Introduction:
 
-This project is an application of several pathfinding algorithms applied to real maps. The app allows one to visualize the process of the finding the path. And it further allows one to compare and contrast the differences in stats for each algortithm.
+This project is an application of several pathfinding algorithms applied to real maps. The app allows one to visualize the process of the finding the path. And it further allows one to compare and contrast the differences in stats for each algortithm. Each intersection is a node, while the road connecting two neighbouring intersections is a directed edge.
 
 ## How to use:
 
