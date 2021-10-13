@@ -39,6 +39,8 @@ Some small cities to test on:
   - Monaco
   - Eibar
   - Tiverton
+  - Bilbao
+  - Naples, Florida
 
 ## Algorithms:
 
