@@ -80,9 +80,7 @@ Some small cities to test on:
 
 ### TODOS:
 
-  - Improve website (Voila styling)
-
-  - Fix drawing of non-straight eges
+  - 	~~Fix drawing of non-straight eges~~ - Fixed Oct 18, 2021
 
   - Improve efficiency for larger cities
 
