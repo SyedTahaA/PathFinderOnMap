@@ -80,7 +80,7 @@ Some small cities to test on:
 
 ### TODOS:
 
-  - 	~~Fix drawing of non-straight eges~~ - Fixed Oct 18, 2021
+  - ~~Fix drawing of non-straight eges~~ - Fixed Oct 18, 2021
 
   - Improve efficiency for larger cities
 
